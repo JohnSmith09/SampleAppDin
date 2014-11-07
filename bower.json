@@ -1,5 +1,5 @@
 {
-   	"name": "SampleAppDin",
+   	"name": "sample-app-din",
 	"version": "0.0.1",
 	"main": "dist/sample.js",
 	"ignore": [
