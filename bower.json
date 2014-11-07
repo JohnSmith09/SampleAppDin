@@ -4,7 +4,9 @@
 	"main": "dist/sample.js",
 	"ignore": [
 			"app",
-			"bower.json"
+			"bower.json",
+			".gitattributes",
+			".gitignore"
 		],
 	"dependencies": {
 		"jquery" : ">=1.10.2"
