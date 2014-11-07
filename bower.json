@@ -5,7 +5,8 @@
 	"ignore": [
 			"app",
 			".gitattributes",
-			".gitignore"
+			".gitignore",
+			"**/*.txt"
 		],
 	"dependencies": {
 		"jquery" : ">=1.10.2"
